@@ -1,2 +1,0 @@
-sololearn
-cic
