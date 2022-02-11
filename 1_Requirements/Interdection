@@ -1,4 +1,4 @@
-# PASSWORD MANAGEMENT#
+# PASSWORD MANAGER
 Passwords are a set of strings provided by users at the authentication prompts of web accounts.
 Although passwords still remain as one of the most secure methods of authentication available to date,
 they are subjected to a number of security threats when mishandled.
@@ -9,26 +9,40 @@ they are subjected to a number of security threats when mishandled.
 
 
 
-*** LOW LEVEL CALLENGES**
+# LOW LEVEL CALLENGES
 
 
-* Use strong and unique passwords for all websites and applications
-* Reset passwords at regular intervals
-* Configure two-factor authentication for all accounts
-* Securely share passwords with friends, family, and colleagues
-* Store all enterprise passwords in one place and enforce secure password policies within the business environment
-* Periodically review the violations and take necessary actions
+  Use strong and unique passwords for all websites and applications
+  Reset passwords at regular intervals
+  Configure two-factor authentication for all accounts
+  Securely share passwords with friends, family, and colleagues
+  Store all enterprise passwords in one place and enforce secure password policies within the business environment
+  Periodically review the violations and take necessary actions
 
 
 
-*** HIGH LEVEL CALLENGES**
+# HIGH LEVEL CALLENGES
 
- * Login spoofing - Passwords are illegally collected through a fake login page by cybercriminals.
- * Sniffing attack - Passwords are stolen using illegal network access and with tools like key loggers.
- * Shoulder surfing attack - Stealing passwords when someone types them, at times using a micro-camera 
+   Login spoofing - Passwords are illegally collected through a fake login page by cybercriminals.
+  Sniffing attack - Passwords are stolen using illegal network access and with tools like key loggers.
+  Shoulder surfing attack - Stealing passwords when someone types them, at times using a micro-camera 
    and gaining access to user data.
- * Brute force attack - Stealing passwords with the help of automated tools and gaining access to user data.
- * Data breach - Stealing login credentials and other confidential data directly from the website database. 
+  Brute force attack - Stealing passwords with the help of automated tools and gaining access to user data.
+  Data breach - Stealing login credentials and other confidential data directly from the website database. 
+
+
+# kEY TIPS FOR PASSWORD SAFELY
+ * use a unique password for each.
+ * Opt for long passwords that include multiple words.
+ * Don't use personal information in your passwords.
+
+
+# KEY FEATURES OF MODERN PASSWORD
+ * password generation
+ * The ability to syne pssword across multiple devicees
+ * Autiofill functionality
+ * Warning if you repeat
+ * Reminders to changes your passwords  
 
 
 
