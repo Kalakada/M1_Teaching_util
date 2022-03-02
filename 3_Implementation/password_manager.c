@@ -5,8 +5,8 @@
 */
 
 
-#include "headers/password-manager.h"
-#include "external/key-generator.c"
+#include <"headers/password-manager.h">
+#include <"external/key-generator.c">
 
 
 /*
